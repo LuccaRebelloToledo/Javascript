@@ -1,0 +1,15 @@
+#countLabel {
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+
+#decreaseButton, #resetButton, #increaseButton {
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+#style {
+    text-align: center;
+}
